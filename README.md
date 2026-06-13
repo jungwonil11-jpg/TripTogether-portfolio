@@ -7,11 +7,9 @@
 
 ## 🎬 시연 영상
 
-담당 영역 **커뮤니티 · 신고 · 문의** 전체 흐름을 직접 시연한 영상입니다 (약 7분).
+담당 영역 **커뮤니티 · 신고 · 문의** 전체 흐름을 직접 시연한 영상입니다 (약 7분). 아래 썸네일 클릭 시 재생됩니다.
 
-<!-- ▼ 아래 한 줄을 지우고 그 자리에 triptogether-demo.mp4 파일을 드래그&드롭하세요.
-     GitHub가 https://github.com/jungwonil11-jpg/TripTogether-portfolio/assets/... 플레이어 링크로 자동 변환합니다. ▼ -->
-> 🎬 **영상 업로드 예정** — 이 자리에 `triptogether-demo.mp4` 드래그&드롭
+[![TripTogether 시연 영상](https://img.youtube.com/vi/lQwGy8fZ0s0/maxresdefault.jpg)](https://youtu.be/lQwGy8fZ0s0)
 
 > **포트폴리오 안내** — 코드 저장소는 팀 협의에 따라 private으로 유지하고 있습니다.
 > 전체 코드와 857개 커밋 히스토리(본인 304 commits)는 **면접 시 즉시 공개·시연
