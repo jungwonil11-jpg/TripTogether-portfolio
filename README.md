@@ -5,6 +5,14 @@
 여행 코스를 짜고, 후기·팁·사진을 공유하고, AI 챗봇/어시스턴트로 여행 계획을
 보조받는 웹 서비스. 사용자 서비스 + 관리자/슈퍼관리자 백오피스로 구성.
 
+## 🎬 시연 영상
+
+담당 영역 **커뮤니티 · 신고 · 문의** 전체 흐름을 직접 시연한 영상입니다 (약 7분).
+
+<!-- ▼ 아래 한 줄을 지우고 그 자리에 triptogether-demo.mp4 파일을 드래그&드롭하세요.
+     GitHub가 https://github.com/jungwonil11-jpg/TripTogether-portfolio/assets/... 플레이어 링크로 자동 변환합니다. ▼ -->
+> 🎬 **영상 업로드 예정** — 이 자리에 `triptogether-demo.mp4` 드래그&드롭
+
 > **포트폴리오 안내** — 코드 저장소는 팀 협의에 따라 private으로 유지하고 있습니다.
 > 전체 코드와 857개 커밋 히스토리(본인 304 commits)는 **면접 시 즉시 공개·시연
 > 가능**합니다. 본 저장소는 프로젝트 소개와 본인 기여를 문서로 정리한 포트폴리오입니다.
@@ -215,11 +223,13 @@ public boolean submitReport(String targetType, Long targetId, Long userIdx,
 - JUnit Service 단위 테스트 (ADR 검증 전략, Phase 1~3)
 - Spring Boot 4 / Security 7 호환 마이그레이션, Jackson 3 호환, JDBC 타임존 세션 강제
 
-## 시연
+## 핵심 기능 하이라이트
+
+> 전체 흐름은 **상단 🎬 시연 영상** 참고. 아래는 핵심 기능별 짧은 GIF (준비 중).
 
 <!-- TODO: 핵심 기능 GIF 3~5개 캡처해서 채우기 -->
 <!-- ![커뮤니티](assets/demo-community.gif) — 글 작성 → 이미지 업로드 → 독성 감지 BLUR -->
 <!-- ![챗봇](assets/demo-chatbot.gif) — 의도 분류 → 실데이터 추천 → 링크 이동 -->
 <!-- ![알림](assets/demo-sse.gif) — 댓글 작성 → 상대방 화면 실시간 토스트 -->
 
-*(준비 중 — 전체 기능은 면접 시 라이브 시연 가능합니다)*
+*(전체 기능은 면접 시 라이브 시연 가능합니다)*
