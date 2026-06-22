@@ -55,7 +55,7 @@ shop  reward  flight  home  cloudinary  perspective  config
 | **어드민 재무(지갑) 관리** (충전한도·환불·적립률 정책) | 본인 (담당 공백 자발 보완) | 본인 |
 | **슈퍼관리자** (권한체계·조직도·급여/통계) | 팀장(DB·초안) → 본인 구체화 | 본인 |
 | **마이페이지** 최근 조회 내역 | 팀장 | 본인 |
-| **ADR 14편** · JUnit 테스트 · 기여 문서 | 본인 | 본인 |
+| **[ADR 14편](docs/adr/)** · JUnit 테스트 · 기여 문서 | 본인 | 본인 |
 
 <!-- TODO: git shortlog -sn 캡처 넣기 -->
 <!-- ![커밋 분포](assets/commits.png) -->
@@ -216,8 +216,8 @@ public boolean submitReport(String targetType, Long targetId, Long userIdx,
 - 광고: 캠페인 CRUD, 노출 트래킹, 링크 타입별 내부 컨텐츠 매핑(게시글/여행지/코스)
 
 ### 품질·문서
-- **ADR 14편** (MADR 표준) — 설계 결정과 근거 기록,
-  "코드만 보면 결함으로 오인되는 정책" FAQ 포함
+- **[ADR 14편](docs/adr/)** (MADR 표준) — 설계 결정과 근거 기록,
+  "코드만 보면 결함으로 오인되는 정책" FAQ 포함 · [📑 ADR 인덱스 바로가기](docs/adr/)
 - JUnit Service 단위 테스트 (ADR 검증 전략, Phase 1~3)
 - Spring Boot 4 / Security 7 호환 마이그레이션, Jackson 3 호환, JDBC 타임존 세션 강제
 
